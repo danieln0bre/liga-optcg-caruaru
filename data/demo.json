@@ -1,0 +1,2513 @@
+{
+ "jogadores": [
+  {
+   "id": "j_01",
+   "nome": "Rafael Torres",
+   "foto_url": "",
+   "deck_favorito": "Enel (roxo)",
+   "bio": "Joga desde o lançamento da OP-01.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_02",
+   "nome": "Lucas Andrade",
+   "foto_url": "",
+   "deck_favorito": "Lucci (preto)",
+   "bio": "Organiza os encontros de quinta.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_03",
+   "nome": "Bianca Ferraz",
+   "foto_url": "",
+   "deck_favorito": "Nami (azul)",
+   "bio": "Prefere decks de controle.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_04",
+   "nome": "Thiago Moura",
+   "foto_url": "",
+   "deck_favorito": "Shanks (vermelho)",
+   "bio": "",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_05",
+   "nome": "Gabriel Lins",
+   "foto_url": "",
+   "deck_favorito": "Bonney (verde)",
+   "bio": "",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_06",
+   "nome": "Ana Beatriz Rocha",
+   "foto_url": "",
+   "deck_favorito": "Moria (preto)",
+   "bio": "Começou em 2026 e não perde uma local.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_07",
+   "nome": "Pedro Henrique Sá",
+   "foto_url": "",
+   "deck_favorito": "Kid (vermelho)",
+   "bio": "Joga desde o lançamento da OP-01.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_08",
+   "nome": "Mateus Cavalcanti",
+   "foto_url": "",
+   "deck_favorito": "Hancock (azul)",
+   "bio": "Organiza os encontros de quinta.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_09",
+   "nome": "Igor Barros",
+   "foto_url": "",
+   "deck_favorito": "",
+   "bio": "Prefere decks de controle.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_10",
+   "nome": "Júlia Nunes",
+   "foto_url": "",
+   "deck_favorito": "Enel (roxo)",
+   "bio": "",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_11",
+   "nome": "Felipe Araújo",
+   "foto_url": "",
+   "deck_favorito": "Lucci (preto)",
+   "bio": "",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_12",
+   "nome": "Caio Menezes",
+   "foto_url": "",
+   "deck_favorito": "Nami (azul)",
+   "bio": "Começou em 2026 e não perde uma local.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_13",
+   "nome": "Vinícius Lopes",
+   "foto_url": "",
+   "deck_favorito": "Shanks (vermelho)",
+   "bio": "Joga desde o lançamento da OP-01.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_14",
+   "nome": "Larissa Pontes",
+   "foto_url": "",
+   "deck_favorito": "Bonney (verde)",
+   "bio": "Organiza os encontros de quinta.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_15",
+   "nome": "Diego Farias",
+   "foto_url": "",
+   "deck_favorito": "Moria (preto)",
+   "bio": "Prefere decks de controle.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_16",
+   "nome": "Renan Siqueira",
+   "foto_url": "",
+   "deck_favorito": "Kid (vermelho)",
+   "bio": "",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_17",
+   "nome": "Arthur Vasconcelos",
+   "foto_url": "",
+   "deck_favorito": "Hancock (azul)",
+   "bio": "",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_18",
+   "nome": "Marcos Tavares",
+   "foto_url": "",
+   "deck_favorito": "",
+   "bio": "Começou em 2026 e não perde uma local.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_19",
+   "nome": "Heitor Brandão",
+   "foto_url": "",
+   "deck_favorito": "Enel (roxo)",
+   "bio": "Joga desde o lançamento da OP-01.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  },
+  {
+   "id": "j_20",
+   "nome": "Sofia Queiroz",
+   "foto_url": "",
+   "deck_favorito": "Lucci (preto)",
+   "bio": "Organiza os encontros de quinta.",
+   "ativo": "sim",
+   "criado_em": "2025-07-01T12:00:00.000Z"
+  }
+ ],
+ "temporadas": [
+  {
+   "id": "t_2025_2",
+   "nome": "Liga 2025 — 2º semestre",
+   "inicio": "2025-07-01",
+   "fim": "2025-12-20",
+   "status": "encerrada",
+   "melhores_resultados": "6"
+  },
+  {
+   "id": "t_2026_1",
+   "nome": "Liga 2026 — 1º semestre",
+   "inicio": "2026-01-10",
+   "fim": "2026-06-27",
+   "status": "encerrada",
+   "melhores_resultados": "6"
+  },
+  {
+   "id": "t_2026_2",
+   "nome": "Liga 2026 — 2º semestre",
+   "inicio": "2026-07-04",
+   "fim": "2026-12-19",
+   "status": "ativa",
+   "melhores_resultados": "6"
+  }
+ ],
+ "torneios": [
+  {
+   "id": "t_2026_1_tor1",
+   "temporada_id": "t_2026_1",
+   "data": "2026-01-17",
+   "nome": "Local de 17/01",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-01-17T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor2",
+   "temporada_id": "t_2026_1",
+   "data": "2026-01-31",
+   "nome": "Local de 31/01",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-01-31T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor3",
+   "temporada_id": "t_2026_1",
+   "data": "2026-02-14",
+   "nome": "Local de 14/02",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-02-14T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor4",
+   "temporada_id": "t_2026_1",
+   "data": "2026-02-28",
+   "nome": "Local de 28/02",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-02-28T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor5",
+   "temporada_id": "t_2026_1",
+   "data": "2026-03-14",
+   "nome": "Local de 14/03",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-03-14T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor6",
+   "temporada_id": "t_2026_1",
+   "data": "2026-03-28",
+   "nome": "Local de 28/03",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-03-28T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor7",
+   "temporada_id": "t_2026_1",
+   "data": "2026-04-11",
+   "nome": "Local de 11/04",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-04-11T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor8",
+   "temporada_id": "t_2026_1",
+   "data": "2026-04-25",
+   "nome": "Local de 25/04",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-04-25T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor9",
+   "temporada_id": "t_2026_1",
+   "data": "2026-05-09",
+   "nome": "Local de 09/05",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-05-09T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor10",
+   "temporada_id": "t_2026_1",
+   "data": "2026-05-23",
+   "nome": "Local de 23/05",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-05-23T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_1_tor11",
+   "temporada_id": "t_2026_1",
+   "data": "2026-06-06",
+   "nome": "Local de 06/06",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-06-06T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor1",
+   "temporada_id": "t_2026_2",
+   "data": "2026-07-11",
+   "nome": "Local de 11/07",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor2",
+   "temporada_id": "t_2026_2",
+   "data": "2026-07-25",
+   "nome": "Local de 25/07",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-25T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor3",
+   "temporada_id": "t_2026_2",
+   "data": "2026-08-08",
+   "nome": "Local de 08/08",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-08-08T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor4",
+   "temporada_id": "t_2026_2",
+   "data": "2026-08-22",
+   "nome": "Local de 22/08",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-08-22T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor5",
+   "temporada_id": "t_2026_2",
+   "data": "2026-09-05",
+   "nome": "Local de 05/09",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-09-05T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor6",
+   "temporada_id": "t_2026_2",
+   "data": "2026-09-19",
+   "nome": "Local de 19/09",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-09-19T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor7",
+   "temporada_id": "t_2026_2",
+   "data": "2026-10-03",
+   "nome": "Local de 03/10",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-10-03T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor8",
+   "temporada_id": "t_2026_2",
+   "data": "2026-10-17",
+   "nome": "Local de 17/10",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-10-17T15:00:00.000Z"
+  },
+  {
+   "id": "t_2026_2_tor9",
+   "temporada_id": "t_2026_2",
+   "data": "2026-10-31",
+   "nome": "Local de 31/10",
+   "status": "confirmado",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-10-31T15:00:00.000Z"
+  }
+ ],
+ "resultados": [
+  {
+   "id": "r_0001",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_06",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0002",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_03",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0003",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_02",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0004",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_04",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0005",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_05",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0006",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_16",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0007",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_17",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0008",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_08",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0009",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_15",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0010",
+   "torneio_id": "t_2026_1_tor1",
+   "jogador_id": "j_14",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0011",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_06",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0012",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_03",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0013",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_01",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0014",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_08",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0015",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_13",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0016",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_05",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0017",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_02",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0018",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_14",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0019",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_17",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0020",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_15",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0021",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_07",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0022",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_11",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0023",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_09",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0024",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_12",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0025",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_10",
+   "colocacao": "15"
+  },
+  {
+   "id": "r_0026",
+   "torneio_id": "t_2026_1_tor2",
+   "jogador_id": "j_16",
+   "colocacao": "16"
+  },
+  {
+   "id": "r_0027",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_02",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0028",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_06",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0029",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_03",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0030",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_14",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0031",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_10",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0032",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_09",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0033",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_01",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0034",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_04",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0035",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_17",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0036",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_05",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0037",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_12",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0038",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_15",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0039",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_07",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0040",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_16",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0041",
+   "torneio_id": "t_2026_1_tor3",
+   "jogador_id": "j_13",
+   "colocacao": "15"
+  },
+  {
+   "id": "r_0042",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_01",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0043",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_04",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0044",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_02",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0045",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_13",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0046",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_09",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0047",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_12",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0048",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_05",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0049",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_11",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0050",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_15",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0051",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_08",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0052",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_16",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0053",
+   "torneio_id": "t_2026_1_tor4",
+   "jogador_id": "j_17",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0054",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_01",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0055",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_05",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0056",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_08",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0057",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_06",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0058",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_13",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0059",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_16",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0060",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_02",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0061",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_03",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0062",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_04",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0063",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_07",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0064",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_14",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0065",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_09",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0066",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_10",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0067",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_12",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0068",
+   "torneio_id": "t_2026_1_tor5",
+   "jogador_id": "j_17",
+   "colocacao": "15"
+  },
+  {
+   "id": "r_0069",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_06",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0070",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_04",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0071",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_02",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0072",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_01",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0073",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_09",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0074",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_10",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0075",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_12",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0076",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_16",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0077",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_15",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0078",
+   "torneio_id": "t_2026_1_tor6",
+   "jogador_id": "j_11",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0079",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_03",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0080",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_05",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0081",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_04",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0082",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_06",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0083",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_08",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0084",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_12",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0085",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_13",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0086",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_02",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0087",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_15",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0088",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_11",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0089",
+   "torneio_id": "t_2026_1_tor7",
+   "jogador_id": "j_14",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0090",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_06",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0091",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_11",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0092",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_03",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0093",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_08",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0094",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_02",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0095",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_07",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0096",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_14",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0097",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_17",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0098",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_01",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0099",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_04",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0100",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_05",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0101",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_12",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0102",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_15",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0103",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_09",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0104",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_13",
+   "colocacao": "15"
+  },
+  {
+   "id": "r_0105",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_16",
+   "colocacao": "16"
+  },
+  {
+   "id": "r_0106",
+   "torneio_id": "t_2026_1_tor8",
+   "jogador_id": "j_10",
+   "colocacao": "17"
+  },
+  {
+   "id": "r_0107",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_02",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0108",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_06",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0109",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_01",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0110",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_09",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0111",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_11",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0112",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_17",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0113",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_08",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0114",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_13",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0115",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_12",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0116",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_10",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0117",
+   "torneio_id": "t_2026_1_tor9",
+   "jogador_id": "j_14",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0118",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_06",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0119",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_05",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0120",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_01",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0121",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_09",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0122",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_07",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0123",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_04",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0124",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_11",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0125",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_08",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0126",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_16",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0127",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_15",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0128",
+   "torneio_id": "t_2026_1_tor10",
+   "jogador_id": "j_13",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0129",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_01",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0130",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_06",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0131",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_03",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0132",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_05",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0133",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_12",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0134",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_11",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0135",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_07",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0136",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_15",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0137",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_10",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0138",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_08",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0139",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_09",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0140",
+   "torneio_id": "t_2026_1_tor11",
+   "jogador_id": "j_17",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0141",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_01",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0142",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_02",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0143",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_06",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0144",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_08",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0145",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_15",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0146",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_11",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0147",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_04",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0148",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_03",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0149",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_09",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0150",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_05",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0151",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_12",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0152",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_10",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0153",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_13",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0154",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_16",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0155",
+   "torneio_id": "t_2026_2_tor1",
+   "jogador_id": "j_14",
+   "colocacao": "15"
+  },
+  {
+   "id": "r_0156",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_06",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0157",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_02",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0158",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_05",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0159",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_09",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0160",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_11",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0161",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_08",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0162",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_04",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0163",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_07",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0164",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_12",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0165",
+   "torneio_id": "t_2026_2_tor2",
+   "jogador_id": "j_17",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0166",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_04",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0167",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_03",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0168",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_01",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0169",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_08",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0170",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_02",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0171",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_09",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0172",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_05",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0173",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_12",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0174",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_16",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0175",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_18",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0176",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_15",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0177",
+   "torneio_id": "t_2026_2_tor3",
+   "jogador_id": "j_17",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0178",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_01",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0179",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_05",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0180",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_12",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0181",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_04",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0182",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_02",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0183",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_16",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0184",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_18",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0185",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_17",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0186",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_13",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0187",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_10",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0188",
+   "torneio_id": "t_2026_2_tor4",
+   "jogador_id": "j_14",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0189",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_01",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0190",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_06",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0191",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_05",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0192",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_09",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0193",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_04",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0194",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_11",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0195",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_17",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0196",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_16",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0197",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_14",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0198",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_07",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0199",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_13",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0200",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_08",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0201",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_18",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0202",
+   "torneio_id": "t_2026_2_tor5",
+   "jogador_id": "j_15",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0203",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_01",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0204",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_03",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0205",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_02",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0206",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_04",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0207",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_12",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0208",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_07",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0209",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_15",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0210",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_08",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0211",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_16",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0212",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_19",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0213",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_10",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0214",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_13",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0215",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_18",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0216",
+   "torneio_id": "t_2026_2_tor6",
+   "jogador_id": "j_14",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0217",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_03",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0218",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_04",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0219",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_07",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0220",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_11",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0221",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_01",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0222",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_08",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0223",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_17",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0224",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_02",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0225",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_12",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0226",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_15",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0227",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_13",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0228",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_20",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0229",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_14",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0230",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_19",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0231",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_10",
+   "colocacao": "15"
+  },
+  {
+   "id": "r_0232",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_16",
+   "colocacao": "16"
+  },
+  {
+   "id": "r_0233",
+   "torneio_id": "t_2026_2_tor7",
+   "jogador_id": "j_18",
+   "colocacao": "17"
+  },
+  {
+   "id": "r_0234",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_06",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0235",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_04",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0236",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_02",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0237",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_03",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0238",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_13",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0239",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_14",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0240",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_08",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0241",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_17",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0242",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_12",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0243",
+   "torneio_id": "t_2026_2_tor8",
+   "jogador_id": "j_16",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0244",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_02",
+   "colocacao": "1"
+  },
+  {
+   "id": "r_0245",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_08",
+   "colocacao": "2"
+  },
+  {
+   "id": "r_0246",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_12",
+   "colocacao": "3"
+  },
+  {
+   "id": "r_0247",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_06",
+   "colocacao": "4"
+  },
+  {
+   "id": "r_0248",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_03",
+   "colocacao": "5"
+  },
+  {
+   "id": "r_0249",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_04",
+   "colocacao": "6"
+  },
+  {
+   "id": "r_0250",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_01",
+   "colocacao": "7"
+  },
+  {
+   "id": "r_0251",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_14",
+   "colocacao": "8"
+  },
+  {
+   "id": "r_0252",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_13",
+   "colocacao": "9"
+  },
+  {
+   "id": "r_0253",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_16",
+   "colocacao": "10"
+  },
+  {
+   "id": "r_0254",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_07",
+   "colocacao": "11"
+  },
+  {
+   "id": "r_0255",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_15",
+   "colocacao": "12"
+  },
+  {
+   "id": "r_0256",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_11",
+   "colocacao": "13"
+  },
+  {
+   "id": "r_0257",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_17",
+   "colocacao": "14"
+  },
+  {
+   "id": "r_0258",
+   "torneio_id": "t_2026_2_tor9",
+   "jogador_id": "j_19",
+   "colocacao": "15"
+  }
+ ],
+ "classificacao_historica": [
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "1",
+   "jogador_id": "j_06",
+   "pontos": "91",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "2",
+   "jogador_id": "j_01",
+   "pontos": "86",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "3",
+   "jogador_id": "j_02",
+   "pontos": "79",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "4",
+   "jogador_id": "j_03",
+   "pontos": "74",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "5",
+   "jogador_id": "j_05",
+   "pontos": "66",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "6",
+   "jogador_id": "j_04",
+   "pontos": "59",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "7",
+   "jogador_id": "j_07",
+   "pontos": "55",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "8",
+   "jogador_id": "j_08",
+   "pontos": "47",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "9",
+   "jogador_id": "j_09",
+   "pontos": "41",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "10",
+   "jogador_id": "j_11",
+   "pontos": "37",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "11",
+   "jogador_id": "j_12",
+   "pontos": "32",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "12",
+   "jogador_id": "j_13",
+   "pontos": "24",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "13",
+   "jogador_id": "j_10",
+   "pontos": "19",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2025_2",
+   "posicao": "14",
+   "jogador_id": "j_14",
+   "pontos": "12",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "1",
+   "jogador_id": "j_06",
+   "pontos": "81",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "2",
+   "jogador_id": "j_03",
+   "pontos": "73",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "3",
+   "jogador_id": "j_01",
+   "pontos": "71",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "4",
+   "jogador_id": "j_02",
+   "pontos": "68",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "5",
+   "jogador_id": "j_05",
+   "pontos": "61",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "6",
+   "jogador_id": "j_08",
+   "pontos": "56",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "7",
+   "jogador_id": "j_04",
+   "pontos": "52",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "8",
+   "jogador_id": "j_11",
+   "pontos": "45",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "9",
+   "jogador_id": "j_09",
+   "pontos": "44",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "10",
+   "jogador_id": "j_13",
+   "pontos": "44",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "11",
+   "jogador_id": "j_07",
+   "pontos": "40",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "12",
+   "jogador_id": "j_14",
+   "pontos": "39",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "13",
+   "jogador_id": "j_12",
+   "pontos": "36",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "14",
+   "jogador_id": "j_17",
+   "pontos": "36",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "15",
+   "jogador_id": "j_15",
+   "pontos": "28",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "16",
+   "jogador_id": "j_10",
+   "pontos": "27",
+   "observacao": ""
+  },
+  {
+   "temporada_id": "t_2026_1",
+   "posicao": "17",
+   "jogador_id": "j_16",
+   "pontos": "25",
+   "observacao": ""
+  }
+ ],
+ "apelidos": [
+  {
+   "apelido": "rafa_torres",
+   "jogador_id": "j_01",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "apelido": "Bia F.",
+   "jogador_id": "j_03",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "apelido": "PH Sá",
+   "jogador_id": "j_07",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  }
+ ],
+ "numeros_membro": [
+  {
+   "member_number": "0000100001",
+   "jogador_id": "j_01",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000107920",
+   "jogador_id": "j_02",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000115839",
+   "jogador_id": "j_03",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000123758",
+   "jogador_id": "j_04",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000131677",
+   "jogador_id": "j_05",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000139596",
+   "jogador_id": "j_06",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000147515",
+   "jogador_id": "j_07",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000155434",
+   "jogador_id": "j_08",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000163353",
+   "jogador_id": "j_09",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000171272",
+   "jogador_id": "j_10",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000179191",
+   "jogador_id": "j_11",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000187110",
+   "jogador_id": "j_12",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000195029",
+   "jogador_id": "j_13",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000202948",
+   "jogador_id": "j_14",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  },
+  {
+   "member_number": "0000210867",
+   "jogador_id": "j_15",
+   "criado_por": "demo@exemplo.com",
+   "criado_em": "2026-07-11T15:00:00.000Z"
+  }
+ ],
+ "notas_jogador": [
+  {
+   "id": "n_01",
+   "jogador_id": "j_14",
+   "data": "2026-10-03",
+   "autor": "demo@exemplo.com",
+   "texto": "Comentou que o horário de sábado às 10h é difícil por causa do trabalho."
+  }
+ ],
+ "acessos": [
+  {
+   "email": "admin.demo@exemplo.com",
+   "nome": "Admin Demo",
+   "proprietario": true
+  },
+  {
+   "email": "organizador@exemplo.com",
+   "nome": "Organizador",
+   "proprietario": false
+  }
+ ],
+ "pesquisa_config": [
+  {
+   "chave": "url_formulario",
+   "valor": "https://docs.google.com/forms/d/e/EXEMPLO/viewform"
+  },
+  {
+   "chave": "url_edicao",
+   "valor": "https://docs.google.com/forms/d/EXEMPLO/edit"
+  },
+  {
+   "chave": "relatorio_em",
+   "valor": "2026-11-10T09:00:00.000Z"
+  },
+  {
+   "chave": "nps",
+   "valor": "27"
+  }
+ ],
+ "pesquisa_analise": [
+  {
+   "resposta_id": "resp_1",
+   "data": "2026-11-01T20:00:00.000Z",
+   "identificacao": "Marcos Tavares",
+   "jogador_id": "j_18",
+   "segmento": "novato",
+   "nota": "9",
+   "sentimento": "positivo",
+   "temas": "novatos_aprendizado",
+   "resumo": "Quer uma mesa para aprender regras antes do torneio.",
+   "citacao": "Na primeira vez fiquei perdido com as regras",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_2",
+   "data": "2026-11-02T20:00:00.000Z",
+   "identificacao": "Heitor Brandão",
+   "jogador_id": "j_19",
+   "segmento": "novato",
+   "nota": "6",
+   "sentimento": "misto",
+   "temas": "novatos_aprendizado,custo",
+   "resumo": "Acha caro montar deck competitivo; pede deck emprestado para começar.",
+   "citacao": "Não tenho deck bom ainda",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_3",
+   "data": "2026-11-03T20:00:00.000Z",
+   "identificacao": "Sofia Queiroz",
+   "jogador_id": "j_20",
+   "segmento": "novato",
+   "nota": "4",
+   "sentimento": "negativo",
+   "temas": "ambiente_comunidade,novatos_aprendizado",
+   "resumo": "Sentiu-se deslocado por perder rápido para jogadores experientes.",
+   "citacao": "Perdi todas e ninguém explicou nada",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_4",
+   "data": "2026-11-04T20:00:00.000Z",
+   "identificacao": "Gabriel Lins",
+   "jogador_id": "j_05",
+   "segmento": "em_risco",
+   "nota": "5",
+   "sentimento": "negativo",
+   "temas": "horario",
+   "resumo": "Sábado às 10h conflita com o trabalho; preferiria à tarde.",
+   "citacao": "O horário de sábado de manhã não dá mais",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_5",
+   "data": "2026-11-05T20:00:00.000Z",
+   "identificacao": "Igor Barros",
+   "jogador_id": "j_09",
+   "segmento": "em_risco",
+   "nota": "6",
+   "sentimento": "misto",
+   "temas": "horario,formato_torneio",
+   "resumo": "Torneios longos demais; sugere menos rodadas ou corte de tempo.",
+   "citacao": "Acaba muito tarde",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_6",
+   "data": "2026-11-06T20:00:00.000Z",
+   "identificacao": "Rafael Torres",
+   "jogador_id": "j_01",
+   "segmento": "frequente",
+   "nota": "10",
+   "sentimento": "positivo",
+   "temas": "premiacao",
+   "resumo": "Gosta da liga; sugere premiação simbólica para o top 8 da temporada.",
+   "citacao": "",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_7",
+   "data": "2026-11-07T20:00:00.000Z",
+   "identificacao": "Lucas Andrade",
+   "jogador_id": "j_02",
+   "segmento": "frequente",
+   "nota": "9",
+   "sentimento": "positivo",
+   "temas": "comunicacao",
+   "resumo": "Pede aviso das datas com mais antecedência no grupo.",
+   "citacao": "Às vezes só fico sabendo no dia",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_8",
+   "data": "2026-11-08T20:00:00.000Z",
+   "identificacao": "Bianca Ferraz",
+   "jogador_id": "j_03",
+   "segmento": "frequente",
+   "nota": "8",
+   "sentimento": "neutro",
+   "temas": "regras_arbitragem",
+   "resumo": "Quer um juiz de referência para resolver dúvidas na hora.",
+   "citacao": "",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_9",
+   "data": "2026-11-09T20:00:00.000Z",
+   "identificacao": "Pedro Henrique Sá",
+   "jogador_id": "j_07",
+   "segmento": "frequente",
+   "nota": "9",
+   "sentimento": "positivo",
+   "temas": "metagame_decks",
+   "resumo": "Sugere evento casual com decks fora do meta.",
+   "citacao": "",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_10",
+   "data": "2026-11-01T20:00:00.000Z",
+   "identificacao": "Caio Menezes",
+   "jogador_id": "j_12",
+   "segmento": "ocasional",
+   "nota": "7",
+   "sentimento": "misto",
+   "temas": "horario,local_estrutura",
+   "resumo": "Loja fica cheia e quente; horário da tarde ajudaria.",
+   "citacao": "Fica muito apertado",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_11",
+   "data": "2026-11-02T20:00:00.000Z",
+   "identificacao": "Diego Farias",
+   "jogador_id": "j_15",
+   "segmento": "ocasional",
+   "nota": "7",
+   "sentimento": "neutro",
+   "temas": "comunicacao",
+   "resumo": "Não sabia como funcionava a pontuação da liga.",
+   "citacao": "",
+   "status": "ok"
+  },
+  {
+   "resposta_id": "resp_12",
+   "data": "2026-11-03T20:00:00.000Z",
+   "identificacao": "",
+   "jogador_id": "",
+   "segmento": "desconhecido",
+   "nota": "3",
+   "sentimento": "negativo",
+   "temas": "ambiente_comunidade",
+   "resumo": "Relata comentários desagradáveis de alguns jogadores em partidas.",
+   "citacao": "Tem gente que zoa quem perde",
+   "status": "ok"
+  }
+ ],
+ "pesquisa_relatorio": [
+  {
+   "gerado_em": "2026-11-10T09:00:00.000Z",
+   "tema": "novatos_aprendizado",
+   "respostas": "3",
+   "segmentos": "novato (3)",
+   "dor": "Novatos chegam sem saber as regras e perdem rápido, sem acolhimento.",
+   "sugestao": "Mesa de iniciantes 30 min antes do torneio, com um veterano voluntário e decks emprestados.",
+   "esforco": "baixo",
+   "impacto": "alto"
+  },
+  {
+   "gerado_em": "2026-11-10T09:00:00.000Z",
+   "tema": "horario",
+   "respostas": "3",
+   "segmentos": "em_risco (2), ocasional (1)",
+   "dor": "O horário de sábado de manhã afasta quem trabalha; torneios terminam tarde.",
+   "sugestao": "Testar um torneio mensal no sábado à tarde e limitar a 4 rodadas com relógio.",
+   "esforco": "medio",
+   "impacto": "alto"
+  },
+  {
+   "gerado_em": "2026-11-10T09:00:00.000Z",
+   "tema": "ambiente_comunidade",
+   "respostas": "2",
+   "segmentos": "novato (1), desconhecido (1)",
+   "dor": "Há relatos de zoação com quem perde, o que desanima novatos.",
+   "sugestao": "Publicar um código de conduta curto e lembrar na abertura do torneio; organizador conversa com os envolvidos.",
+   "esforco": "baixo",
+   "impacto": "alto"
+  },
+  {
+   "gerado_em": "2026-11-10T09:00:00.000Z",
+   "tema": "comunicacao",
+   "respostas": "2",
+   "segmentos": "frequente (1), ocasional (1)",
+   "dor": "Datas e regras da pontuação não chegam a todos.",
+   "sugestao": "Fixar no grupo o calendário do mês e o link do ranking com a explicação da pontuação.",
+   "esforco": "baixo",
+   "impacto": "medio"
+  }
+ ],
+ "auditoria": []
+}
