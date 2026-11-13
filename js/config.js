@@ -17,11 +17,10 @@ export const CONFIG = {
     // Planilha de pesquisas: o dono é o único editor (o Apps Script com a chave da IA fica nela);
     // os demais administradores são leitores. Vazio = aba Pesquisas mostra as instruções.
     planilhaPesquisaId: '1rUGXijyr-Q6Mkzb8KjEuzWZ6c0tK2Si-ZZHKTgwPNpE',
-    // Chave de API restrita ao domínio do site e à Google Sheets API (só leitura pública).
-    apiKey: 'AIzaSyB6zYqc2qAaZjPcUZxJsk4Xa2C0-hWin1c',
-    // ID do cliente OAuth do tipo "Aplicativo da Web".
+    // Visitantes leem a planilha pública em CSV, sem chave de API (ver js/data/sheets-api.js).
     // Projeto no Google Cloud (só para o link de "usuários de teste" na tela Administradores).
     projetoCloud: 'liga-optcg-caruaru',
+    // ID do cliente OAuth do tipo "Aplicativo da Web".
     oauthClientId: '763568378352-glqmbqvhfv8k3kma532fjp68a0s9tb8a.apps.googleusercontent.com',
   },
 

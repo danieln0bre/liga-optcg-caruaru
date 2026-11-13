@@ -34,9 +34,9 @@ class RepositorioSheets {
   }
 
   async carregarPublico() {
-    // Com login, lê com o token (dados mais frescos e sem depender da chave de API).
-    const auth = this.auth || { apiKey: this.g.apiKey };
-    return api.lerAbas(this.g.planilhaPublicaId, ABAS_PUBLICAS, auth);
+    // Com login, lê pela Sheets API com o token; visitantes leem o CSV público (sem chave de API).
+    if (this.auth) return api.lerAbas(this.g.planilhaPublicaId, ABAS_PUBLICAS, this.auth);
+    return api.lerAbasCsv(this.g.planilhaPublicaId, ESQUEMA_PUBLICO);
   }
 
   /** Lança ErroSheets com status 403/404 quando o usuário não tem acesso. */

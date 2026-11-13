@@ -9,12 +9,11 @@ export class ErroSheets extends Error {
   }
 }
 
-/** auth: { apiKey } para leitura pública ou { token } para chamadas do administrador. */
+/** auth: { token } do administrador logado. (A leitura pública não usa a API: ver lerAbasCsv.) */
 async function chamar(url, { auth, method = 'GET', body } = {}) {
   const u = new URL(url);
   const headers = {};
   if (auth?.token) headers.Authorization = `Bearer ${auth.token}`;
-  else if (auth?.apiKey) u.searchParams.set('key', auth.apiKey);
   if (body) headers['Content-Type'] = 'application/json';
 
   const resp = await fetch(u, { method, headers, body: body ? JSON.stringify(body) : undefined });
@@ -60,6 +59,67 @@ export async function lerAbas(planilhaId, abas, auth) {
     saida[abas[i]] = linhasParaObjetos(vr.values);
   });
   return saida;
+}
+
+/* ---------- Leitura pública sem chave de API ---------- */
+// Planilhas compartilhadas como "qualquer pessoa com o link" podem ser lidas em CSV pelo endpoint
+// gviz do Google Sheets, que responde com CORS. Assim o site não precisa de chave de API nenhuma.
+// As abas são formatadas como texto puro (scripts/criar-abas.gs), então o gviz não converte tipos.
+
+/** Converte CSV (RFC 4180: aspas, "" escapado, quebras de linha dentro de aspas) em matriz de strings. */
+export function interpretarCsv(texto) {
+  const linhas = [];
+  let linha = [];
+  let campo = '';
+  let aspas = false;
+  const s = String(texto ?? '').replace(/^﻿/, '');
+  for (let i = 0; i < s.length; i++) {
+    const c = s[i];
+    if (aspas) {
+      if (c === '"' && s[i + 1] === '"') { campo += '"'; i++; }
+      else if (c === '"') aspas = false;
+      else campo += c;
+    } else if (c === '"') aspas = true;
+    else if (c === ',') { linha.push(campo); campo = ''; }
+    else if (c === '\n' || c === '\r') {
+      if (c === '\r' && s[i + 1] === '\n') i++;
+      linha.push(campo); linhas.push(linha); linha = []; campo = '';
+    } else campo += c;
+  }
+  if (campo !== '' || linha.length) { linha.push(campo); linhas.push(linha); }
+  return linhas;
+}
+
+/**
+ * Lê uma aba pública como CSV. `colunas` é o cabeçalho esperado: se a aba não existir, o gviz
+ * devolve a PRIMEIRA aba da planilha em silêncio, e o cabeçalho diferente denuncia isso.
+ */
+export async function lerAbaCsv(planilhaId, aba, colunas) {
+  const u = new URL(`https://docs.google.com/spreadsheets/d/${encodeURIComponent(planilhaId)}/gviz/tq`);
+  u.searchParams.set('tqx', 'out:csv');
+  u.searchParams.set('headers', '1');
+  u.searchParams.set('sheet', aba);
+  const resp = await fetch(u, { credentials: 'omit' });
+  const texto = resp.ok ? await resp.text() : '';
+  const tipo = resp.headers.get('content-type') || '';
+  if (!resp.ok || !tipo.includes('text/csv')) {
+    // Planilha não pública devolve a página de login (HTML) em vez de CSV.
+    throw new ErroSheets(resp.ok ? 403 : resp.status, 'Não foi possível ler a planilha pública. Ela está compartilhada como "qualquer pessoa com o link"?');
+  }
+  const valores = interpretarCsv(texto);
+  const cabecalho = (valores[0] || []).map((c) => c.trim());
+  if (colunas.some((c) => !cabecalho.includes(c))) {
+    throw new ErroSheets(404, `A aba "${aba}" não foi encontrada na planilha pública (ou o cabeçalho está diferente).`);
+  }
+  valores[0] = cabecalho;
+  return linhasParaObjetos(valores);
+}
+
+/** Lê várias abas públicas em paralelo. esquema: { aba: [colunas] }. Devolve { aba: [objetos] }. */
+export async function lerAbasCsv(planilhaId, esquema) {
+  const abas = Object.keys(esquema);
+  const listas = await Promise.all(abas.map((aba) => lerAbaCsv(planilhaId, aba, esquema[aba])));
+  return Object.fromEntries(abas.map((aba, i) => [aba, listas[i]]));
 }
 
 /** Acrescenta linhas ao fim de uma aba. */

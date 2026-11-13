@@ -3,7 +3,7 @@
 Site de gestão da comunidade de One Piece Card Game de Caruaru: ranking público da liga, histórico de ligas com pódio, perfil dos jogadores e área de administração para lançar resultados e acompanhar os jogadores. Funciona sem servidor próprio: é uma página estática (GitHub Pages) que lê e grava em planilhas do Google.
 
 ```
-Visitante  ──(chave de API, só leitura)──►  Planilha pública
+Visitante  ──(CSV público, sem chave)───►  Planilha pública
 Admin      ──(login Google, OAuth)───────►  Planilha pública (editor) + Planilha administrativa
 ```
 
@@ -51,7 +51,7 @@ index.html                 página única; rotas por #hash; Content Security Pol
 css/estilo.css
 js/
   app.js                   inicialização e rotas
-  config.js                IDs das planilhas, chave de API, client ID, modo demo/sheets
+  config.js                IDs das planilhas, client ID, modo demo/sheets
   domain/liga.js           regras da liga e associação de nomes (puro, testado)
   domain/print-ranking.js  interpretação do print do Ranking (puro, testado)
   ocr/leitor-print.js      OCR no navegador (Tesseract.js) → domain/print-ranking.js
@@ -131,11 +131,7 @@ O Member Number identifica o jogador mesmo que ele troque de nick no app, mas é
 3. *Credenciais → Criar credenciais → ID do cliente OAuth*, tipo **Aplicativo da Web**. Em *Origens JavaScript autorizadas*:
    - `https://SEU-USUARIO.github.io`
    - `http://localhost:8080` (para testes locais)
-4. *Credenciais → Criar credenciais → Chave de API*. Restrinja a chave:
-   - *Restrições de aplicativo*: referenciadores HTTP `https://SEU-USUARIO.github.io/*` e `http://localhost:8080/*`;
-   - *Restrições de API*: somente Google Sheets API.
-
-A chave de API e o client ID ficam visíveis no código do site, e isso é esperado: a chave só lê planilhas públicas e o client ID só funciona nas origens cadastradas.
+Não é preciso criar chave de API. Os visitantes leem a planilha pública em CSV pelo endpoint `gviz/tq` do Google Sheets, que funciona para planilhas compartilhadas como "qualquer pessoa com o link" e responde com CORS. O site confere o cabeçalho de cada aba, porque esse endpoint devolve a primeira aba quando o nome não existe. O client ID fica visível no código, e isso é esperado: ele só funciona nas origens cadastradas.
 
 ### 3. `js/config.js`
 Preencha os valores de `google` (`planilhaPesquisaId` é opcional: só para a aba Pesquisas) e troque `modo` para `'sheets'`. O teste de fumaça força o modo demo no navegador de teste, então continua valendo depois dessa troca.
